@@ -1,2 +1,3 @@
 Ovo je Matijina datoteka!
+*PROMJENA*
 Ovdje nema nista zanimljivo jer smo u txt datoteci... :P
